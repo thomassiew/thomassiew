@@ -1,6 +1,6 @@
 
 
-# 👋 Hello There! 
+# 👋 Hello There!
 > General Kenobi! 🤖
 
 Welcome to my Github profile! <br />
@@ -8,10 +8,11 @@ My name is Thomas 👨‍💼 and I'm currently a Team Lead / Software Engineer 
 
 # About Me
 
-- 🛵 Founded and scaled a [tech startup](https://www.astroawani.com/video-malaysia/ibrahim-sanis-notepad-easyeats-1848745?amp=1) from scratch to 30,000 users before closing down then sold after 2 years of hustling on 2021.
-- 🧬 I spend most of my days in front of the computer turning characters into software , eating or working out.
-- 👀 I’m interested in web3, startups and building cool stuff - hit me up if you looking to discuss your ideas!
-- 🌱 I’m currently learning NEAR Protocol web3 & Flutter
+- 🛵 Founded a tech startup [easyeats](https://www.astroawani.com/video-malaysia/ibrahim-sanis-notepad-easyeats-1848745?amp=1) in 2020 during the start of Covid lockdown that reaches 12,000 orders monthly with over 30,000 users during it's peak before closing down then sold after 2 years of hustling at the end of 2021.
+- 👩‍💻 Recently built/deployed a production ready subscription based web ordering + Point of Sales system, you can check it out [here](https://www.arial.app/)!
+- 🧬 Spend most of my days in front of the computer turning characters into software , eating or working out.
+- 👀 Interested in building cool stuff - hit me up if you looking to discuss your ideas! It could be anything from web3 , AI or even non-tech related!
+- 🌱 Currently learning web3 NEAR Protocol blockchain
 - 📬 Feel to me reach me via [linkedin](https://www.linkedin.com/in/thomassiew007/)
 
 
