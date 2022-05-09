@@ -8,7 +8,7 @@ My name is Thomas 👨‍💼 and I'm currently a Team Lead / Software Engineer 
 
 # About Me
 
-- 🛵 Founded a tech startup [easyeats](https://www.astroawani.com/video-malaysia/ibrahim-sanis-notepad-easyeats-1848745?amp=1) in 2020 during the start of Covid lockdown that reaches 12,000 orders monthly with over 30,000 users during it's peak before closing down then sold after 2 years of hustling at the end of 2021.
+- 🛵 Founded a tech startup [easyeats](https://www.astroawani.com/video-malaysia/ibrahim-sanis-notepad-easyeats-1848745?amp=1) in 2020 during the start of Covid lockdown that delivers over 12,000 paid orders monthly with approximately 30,000 users at it's peak before closing down then sold after 2 years of hustling at the end of 2021.
 - 👩‍💻 Recently built/deployed a production ready subscription based web ordering + Point of Sales system, you can check it out [here](https://www.arial.app/)!
 - 🧬 Spend most of my days in front of the computer turning characters into software , eating or working out.
 - 👀 Interested in building cool stuff - hit me up if you looking to discuss your ideas! It could be anything from web3 , AI or even non-tech related!
