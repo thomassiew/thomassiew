@@ -3,7 +3,7 @@
 # 👋 Hello There!
 > General Kenobi! 🤖
 
-Welcome to my Github profile! <br />
+Welcome to my Github profile! <br /><br />
 My name is Thomas 👨‍💼 and I'm currently a Team Lead / Software Engineer @ [Setel](https://www.setel.com)
 
 # About Me
