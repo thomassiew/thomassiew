@@ -13,7 +13,7 @@ My name is Thomas 👨‍💼 and I'm currently a Team Lead / Software Engineer 
 - 🧬 Spend most of my days in front of the computer turning characters into software , eating or working out.
 - 👀 Interested in building cool stuff - hit me up if you looking to discuss your ideas! It could be anything from web3 , AI or even non-tech related!
 - 🌱 Currently learning web3 NEAR Protocol blockchain
-- 📬 Feel to me reach me via [linkedin](https://www.linkedin.com/in/thomassiew007/)
+- 📬 Feel free to reach me via [linkedin](https://www.linkedin.com/in/thomassiew007/)
 
 
 
