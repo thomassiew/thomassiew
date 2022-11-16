@@ -12,7 +12,7 @@ My name is Thomas 👨‍💼 and I'm currently a FullStack Team Lead / Software
 - 👩‍💻 Recently built/deployed a production ready subscription based web ordering + Point of Sales system, you can check it out [here](https://www.arial.app/)!
 - 🧬 Spend most of my days in front of the computer turning characters into software , eating or working out.
 - 👀 Interested in building cool stuff - hit me up if you looking to discuss your ideas! It could be anything from web3 , AI or even non-tech related!
-- 🌱 Currently learning web3 NEAR Protocol blockchain
+- 🌱 Currently learning Vue 3 with Typescript
 - 📬 Feel free to reach me via [linkedin](https://www.linkedin.com/in/thomassiew007/)
 
 
