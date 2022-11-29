@@ -1,7 +1,6 @@
 
 
 # 👋 Hello There!
-> General Kenobi! 🤖
 
 Welcome to my Github profile! <br /><br />
 My name is Thomas 👨‍💼 and I'm currently a FullStack Team Lead / Software Engineer @ [Setel](https://www.setel.com)
