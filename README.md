@@ -3,7 +3,7 @@
 # 👋 Hello There!
 
 Welcome to my Github profile! <br /><br />
-My name is Thomas 👨‍💼 and I'm currently a Senior Software Engineer @ [ExpressVPN](https://www.expressvpn.com/)
+My name is Thomas 👨‍💼 and I'm currently a Senior Software Engineer @ [Chaos Theory](https://www.chaostheory.hk/)
 
 # About Me
 
